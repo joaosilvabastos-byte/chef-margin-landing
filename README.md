@@ -18,4 +18,4 @@ A ferramenta foca-se em análise de sensibilidade dinâmica, superando a estáti
 
 Objetivo Técnico
 
-Preciso de ajuda para garantir que o backend seja robusto, escalável e que a interface mantenha a simplicidade extrema para o utilizador final.
+O projeto procura garantir um backend robusto e escalável, mantendo uma interface de simplicidade extrema para o utilizador final.
