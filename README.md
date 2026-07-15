@@ -1,5 +1,7 @@
 Chef Margin Pro
+
 Contexto do Projeto
+
 Atua como um Consultor de Software Sénior e Especialista em Engenharia de Menu. Estou a desenvolver o Chef Margin Pro, uma aplicação web focada em ajudar pequenos restaurantes a calcular margens de pratos e otimizar a rentabilidade, combatendo a perda de lucro silenciosa.
 
 Estado Atual e Visão
